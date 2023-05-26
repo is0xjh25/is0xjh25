@@ -35,14 +35,14 @@
 [![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)](https://is0xjh25.github.io)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://is0xjh25.github.io)
 
-### Insights
+<details><summary><h3><i>Insights</i></h3></summary>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=is0xjh25&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=is0xjh25&hide_border=true&card_width=338&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=is0xjh25&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0xjh25&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
 </p>
-
+</details>
 <p align="center">
   <a href="https://github.com/is0xjh25">
     <img src="https://github.com/is0xjh25/is0xjh25.github.io/blob/master/favicon_io/android-chrome-512x512.png" alt="Favicon" width="20">
