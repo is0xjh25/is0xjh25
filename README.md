@@ -13,7 +13,7 @@
     <a href="https://leetcode.com/is0xjh25">
       <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a><br>
-    <a href="https://github.com/is0xjh25/is0xjh25.github.io/blob/master/Yun-Chi%20Hsiao's%20Resume.pdf" download>
+    <a href="https://github.com/is0xjh25/is0xjh25.github.io/blob/master/Yun-Chi%20Hsiao's%20Resume.pdf" target="_blank" download>
       <img src="https://img.shields.io/badge/downloads-Resume-blue" alt="Downloads Resume">
     </a>
 </p>
