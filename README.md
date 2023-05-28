@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Yun-Chi.<br>
-        Currently studying distributed computing in Master of IT at the Melbourne University.<br>
+        Currently studying Distributed Computing in Master of IT at the Melbourne University.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/yunchi-hsiao/">
