@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Yun-Chi.<br>
+        I'm Yun-Chi. You can also call me Jim :)<br>
         Currently studying Distributed Computing in Master of IT at the Melbourne University.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
@@ -44,7 +44,7 @@
 </p>
 </details>
 <p align="center">
-  <a href="https://github.com/is0xjh25">
+  <a href="https://is0xjh25.github.io">
     <img src="https://github.com/is0xjh25/is0xjh25.github.io/blob/master/favicon_io/android-chrome-512x512.png" alt="Favicon" width="20">
   </a>
   <a href="https://github.com/is0xjh25">
