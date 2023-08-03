@@ -47,6 +47,7 @@
 ### Miscellaneous
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://is0xjh25.github.io)
 [![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)](https://is0xjh25.github.io)
+[![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=Tableau)](https://is0xjh25.github.io)
 [![Confluence](https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence)](https://is0xjh25.github.io)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://is0xjh25.github.io)
 
