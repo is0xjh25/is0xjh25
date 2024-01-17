@@ -7,10 +7,10 @@
         Currently studying Distributed Computing in Master of IT at the Melbourne University.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/jim-hsiao/">
+    <a href="https://www.linkedin.com/in/jim-hsiao/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://leetcode.com/is0xjh25">
+    <a href="https://leetcode.com/is0xjh25" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a><br>
     <a href="https://github.com/is0xjh25/is0xjh25.github.io/blob/master/Yun-Chi%20Hsiao%20Resume.pdf" target="_blank" download="Jim%20Hsiao's%20Resume.pdf">
