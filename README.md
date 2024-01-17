@@ -21,8 +21,7 @@
 ### Programming Languages
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://is0xjh25.github.io)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://is0xjh25.github.io)
-[![Ruby](https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby)](https://is0xjh25.github.io)
-[![C](https://img.shields.io/badge/language%20c-black?style=for-the-badge&logo=c)](https://is0xjh25.github.io)
+[![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)](https://is0xjh25.github.io)
 
 ### Cloud & Distributed Computing
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)](https://is0xjh25.github.io)
@@ -36,14 +35,20 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://is0xjh25.github.io)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://is0xjh25.github.io)
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://is0xjh25.github.io)
-[![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)](https://is0xjh25.github.io)
-[![SquizMatrix](https://img.shields.io/badge/squizmatrix-black?style=for-the-badge&logo=squiz-matrix)](https://is0xjh25.github.io)
+[![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://is0xjh25.github.io)
 
 ### Database
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://is0xjh25.github.io)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://is0xjh25.github.io)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://is0xjh25.github.io)
 [![CouchDB](https://img.shields.io/badge/couchdb-black?style=for-the-badge&logo=couch-db)](https://is0xjh25.github.io)
+
+### Web 3.0
+[![Foundry](https://img.shields.io/badge/foundry-black?style=for-the-badge&logo=foundry)](https://is0xjh25.github.io)
+[![Hardhat](https://img.shields.io/badge/hardhat-black?style=for-the-badge&logo=hardhat)](https://is0xjh25.github.io)
+[![Blockchain](https://img.shields.io/badge/blockchain-black?style=for-the-badge&logo=blockchain)](https://is0xjh25.github.io)
+[![DeFi](https://img.shields.io/badge/defi-black?style=for-the-badge&logo=defi)](https://is0xjh25.github.io)
+[![DAPP](https://img.shields.io/badge/dapp-black?style=for-the-badge&logo=dapp)](https://is0xjh25.github.io)
 
 ### Miscellaneous
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://is0xjh25.github.io)
