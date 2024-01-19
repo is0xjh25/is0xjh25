@@ -73,7 +73,7 @@
   <a href="https://github.com/is0xjh25">
     <img src="https://img.shields.io/github/followers/is0xjh25?label=Followers" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/is0xjh25">
+<!--   <a href="https://github.com/is0xjh25">
     <img src="https://komarev.com/ghpvc/?username=is0xjh25&logo=Github&color=blue&style=flat" alt="GitHub Profile View"/>
-  </a>
+  </a> -->
 </p>
