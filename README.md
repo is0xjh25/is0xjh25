@@ -58,22 +58,21 @@
 [![Confluence](https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence)](https://is0xjh25.github.io)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://is0xjh25.github.io)
 
-<details><summary><h3><i>Insights</i></h3></summary>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=is0xjh25&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=is0xjh25&hide_border=true&card_width=338&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=is0xjh25&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0xjh25&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is0xjh25&langs_count=5&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
 </p>
-</details>
+
 <p align="center">
   <a href="https://is0xjh25.github.io">
     <img src="https://github.com/is0xjh25/is0xjh25.github.io/blob/master/favicon_io/android-chrome-512x512.png" alt="Favicon" width="20">
   </a>
   <a href="https://github.com/is0xjh25">
+    <img src="https://komarev.com/ghpvc/?username=is0xjh25&logo=Github&color=blue&style=flat" alt="GitHub Profile View"/>
+  </a>
+  <a href="https://github.com/is0xjh25">
     <img src="https://img.shields.io/github/followers/is0xjh25?label=Followers" alt="GitHub Followers"/>
   </a>
-<!--   <a href="https://github.com/is0xjh25">
-    <img src="https://komarev.com/ghpvc/?username=is0xjh25&logo=Github&color=blue&style=flat" alt="GitHub Profile View"/>
-  </a> -->
 </p>
