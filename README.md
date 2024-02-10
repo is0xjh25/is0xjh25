@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Yun-Chi. You can also call me Jim :)<br>
-        Currently studying Distributed Computing in Master of IT at the Melbourne University.<br>
+        Currently studying Distributed Computing in Master of IT at the University of Melbourne.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/jim-hsiao/" target="_blank">
