@@ -19,8 +19,8 @@
 </p>
 
 ### Programming Languages
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://is0xjh25.github.io)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://is0xjh25.github.io)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://is0xjh25.github.io)
 [![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)](https://is0xjh25.github.io)
 
 ### Cloud & Distributed Computing
