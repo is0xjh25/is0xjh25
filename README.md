@@ -12,6 +12,10 @@
     </a>
 </p>
 
+### Specialisations
+![AI Integration](https://img.shields.io/badge/AI_Integration-black?style=for-the-badge&logo=AI-Integration)
+[![Web Application](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://is0xjh25.github.io)
+[![Web3](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://is0xjh25.github.io)
 ### Programming Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://is0xjh25.github.io)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://is0xjh25.github.io)
@@ -60,9 +64,6 @@
 </p>
 
 <p align="center">
-  <a href="https://is0xjh25.github.io">
-    <img src="https://github.com/is0xjh25/is0xjh25.github.io/blob/master/favicon_io/android-chrome-512x512.png" alt="Favicon" width="20">
-  </a>
   <a href="https://github.com/is0xjh25">
     <img src="https://komarev.com/ghpvc/?username=is0xjh25&logo=Github&color=blue&style=flat" alt="GitHub Profile View"/>
   </a>
