@@ -13,9 +13,9 @@
 </p>
 
 ### Specialisations
-![AI Integration](https://img.shields.io/badge/ai_integration-black?style=for-the-badge&logo=ai_integration)
 ![Web Application](https://img.shields.io/badge/web_application-black?style=for-the-badge&logo=web_application)
 ![Web3](https://img.shields.io/badge/web3-black?style=for-the-badge&logo=web3)
+![AI Integration](https://img.shields.io/badge/ai_integration-black?style=for-the-badge&logo=ai_integration)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
@@ -32,7 +32,6 @@
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
 
 ### Database
