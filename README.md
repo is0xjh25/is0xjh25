@@ -14,12 +14,10 @@
 
 ### Specialisations
 ![Web Application](https://img.shields.io/badge/web_application-black?style=for-the-badge&logo=web_application)
-![Web3](https://img.shields.io/badge/web3-black?style=for-the-badge&logo=web3)
 ![AI Integration](https://img.shields.io/badge/ai_integration-black?style=for-the-badge&logo=ai_integration)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 
 ### Cloud & Distributed Computing
@@ -27,18 +25,21 @@
 ![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 
-### Web & Mobile Development
+### Web Development
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
+![Vue3](https://img.shields.io/badge/vue3-black?style=for-the-badge&logo=vue)
 
-### Database
+### Backend & Database
+![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
-![CouchDB](https://img.shields.io/badge/couchdb-black?style=for-the-badge&logo=couch-db)
 
 ### Miscellaneous
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
