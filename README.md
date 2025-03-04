@@ -2,14 +2,13 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Yun-Chi. You can also call me Jim :)<br>
-        Currently studying Distributed Computing in Master of IT at the University of Melbourne.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-    </i><br>
-  <a href="https://www.linkedin.com/in/jim-hsiao/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
+    <i>  
+    Hey there! I'm Yun-Chi, but you can call me Jim.<br>  
+    Currently cultivating a mighty farm in the vast lands of a Melbourne suburb… with exactly two pots.<br>  
+    Also casually coding—just a light 16-hour daily session, nothing excessive.<br>  
+    Always open to collaborating on exciting and unconventional projects!  
+    </i>
+    <br>
 </p>
 
 ### Specialisations
@@ -22,7 +21,6 @@
 
 ### Cloud & Distributed Computing
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)
-![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 
 ### Web Development
@@ -31,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
-![Vue3](https://img.shields.io/badge/vue3-black?style=for-the-badge&logo=vue)
+![Vue3](https://img.shields.io/badge/vue3-black?style=for-the-badge&logo=vue2)
 
 ### Backend & Database
 ![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
