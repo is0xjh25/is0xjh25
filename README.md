@@ -1,10 +1,10 @@
-<h1 align="center">Hi, guys 👋</h1>
+<h1 align="center">Hi, geeks 👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>  
-    Hey there! I'm Yun-Chi, but you can call me Jim.<br>  
-    Currently cultivating a mighty farm in the vast lands of a Melbourne suburb… with exactly two pots.<br>  
+    I'm Yun-Chi, but you can call me Jim.<br>  
+    Currently cultivating a mighty farm in the vast lands of a Melbourne suburb...with exactly two pots.<br>  
     Also casually coding—just a light 16-hour daily session, nothing excessive.<br>  
     Always open to collaborating on exciting and unconventional projects!  
     </i>
